@@ -1,4 +1,4 @@
-# Sistema_cadastro_Cliente
+# Sistema de cadastro Clientes
 ## Pequeno sistema de cadastrado de usuários utilizando PHP + Mysql.
 - Aplicando o CRUD.
 - Funções de ( Cadastrar,Inserir, Editar, Deletar);
