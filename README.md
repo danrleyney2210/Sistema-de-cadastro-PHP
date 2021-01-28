@@ -10,3 +10,6 @@
 
 ### Tela de Listagem de Clientes cadastrados 
 ![apagar](https://github.com/danrleyney2210/Sistema_cadastro_Cliente/blob/master/img/apagar.jpg)
+
+### Tela de editar Clientes Cadastrados 
+![editar](https://github.com/danrleyney2210/Sistema_cadastro_Cliente/blob/main/img/editar.jpg)
