@@ -1,0 +1,53 @@
+.container{
+  padding: 10px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+h4{
+  color: #ccc;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+  color: #fff;
+  padding: 10px 0px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 7px;
+}
+.btn-primary{
+  background-color: #069;
+}
+.btn-primary:hover{
+  background-color: rgb(16, 124, 179);
+}
+.btn-secondary{
+  background-color: rgb(143, 153, 0);
+}
+.btn-secondary:hover{
+  background-color: rgb(164, 175, 18);
+
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+form label{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(144, 144, 144);
+}
+form input{
+  margin-bottom: 5px ;
+  padding: 10px 10px;
+  border-radius: 4px;
+  border: none;
+  background-color: rgb(235, 233, 233);
+  outline: none;
+  width: 90%;
+}
