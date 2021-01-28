@@ -5,3 +5,5 @@ Pequeno sistema de cadastrado de usuários utilizando PHP + Mysql.
 - Sem a utilização de Framework.
 - Utilizado CSS para formatação das páginas. 
 
+IDE : vscode 
+
