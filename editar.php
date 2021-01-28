@@ -15,7 +15,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles/style.css">
-
   <title>Editar</title>
 </head>
 <body>
@@ -35,8 +34,6 @@
       <a href=""><button class="btn btn-primary" type="submit">Editar</button></a>
     
     </form>
-    
-   
 
   </div><!--Container -->
   
